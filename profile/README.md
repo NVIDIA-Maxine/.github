@@ -1,29 +1,30 @@
 
 # NVIDIA Maxine
-NVIDIA Maxine is a suite of high-performance, easy-to-use, NVIDIA Inference Microservices (NIMs) and SDKs for deploying AI features that enhance audio, video, and augmented reality effects for video conferencing and telepresence. NVIDIA NIM™, part of NVIDIA AI Enterprise, is a set of easy-to-use, microservices designed for secure, reliable deployment of high performance AI model inferencing across clouds, data centers and workstations.
 
-NVIDIA Maxine’s state-of-the-art models create high-quality effects that can be achieved with standard microphones and webcams. Maxine improves telepresence through clear communication and innovative features like Background Noise Reduction, Studio Voice, Video Relighting, Maxine Audio2Face-2D, Eye Contact, Maxine 3D, and more.
+NVIDIA Maxine is a collection of high-performance, easy-to-use, NVIDIA NIM™ microservices and SDKs for deploying AI features that enhance audio, video, and augmented reality effects for video conferencing and telepresence. NIM part of NVIDIA AI Enterprise, is a set of easy-to-use microservices designed for secure, reliable deployment of high-performance AI model inferencing across clouds, data centers, and workstations.
+
+NVIDIA Maxine’s state-of-the-art models create high-quality effects that can be achieved with input from standard microphones and webcams. Maxine improves telepresence through clear communication and innovative features like Background Noise Reduction, Studio Voice, Studio Lighting and Background Harmonization, Maxine Audio2Face-2D, Eye Contact, Maxine 3D, and more.
 
 ## Benefits
 
 - ### State-of-the-Art NVIDIA AI Capabilities
 
-    NVIDIA Maxine offers world-class pretrained models for developers to deploy premium augmented reality, audio, and video quality features.
+  NVIDIA Maxine offers world-class pretrained models for developers to deploy premium augmented reality, audio, and video quality features.
 
 - ### Real-Time AI Performance
 
-    Maxine includes accelerated and optimized AI features for real-time inference on GPUs, resulting in low-latency audio, video, and AR effects with high network resilience.
+  Maxine includes accelerated and optimized AI features for real-time inference on GPUs, resulting in low-latency audio, video, and AR effects with high network resilience.
 
 - ### Complete AI Pipeline
 
-    Maxine offers a developer platform of complete audio and video enhancement pipelines of multiple low-latency effects chained together.
+  Maxine offers a developer platform of complete audio and video enhancement pipelines of multiple low-latency effects chained together.
 
 - ### Multi-Cloud, Customizable Deployment
 
-    Maxine’s cloud-native microservices allow for flexible, fast deployment and updates.
+  Maxine’s cloud-native microservices allow for flexible, fast deployment and updates.
 
 To learn about, download, and get started with introductory resources for Maxine, refer to the
-Maxine developer page](https://developer.nvidia.com/maxine) and on our [What's New marketing news page](https://developer.nvidia.com/blog/tag/maxine/).
+[Maxine developer page](https://developer.nvidia.com/maxine) and on our [What's New marketing news page](https://developer.nvidia.com/blog/tag/maxine/).
 
 ## Product Documentation
 
