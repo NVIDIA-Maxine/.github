@@ -30,8 +30,3 @@ To learn about, download, and get started with introductory resources for Maxine
 
 For product documentation, including Release Notes, Support Matrix, services and models, client
 integration, server deployment, and performance, refer to the [Maxine User Guide](https://docs.nvidia.com/deeplearning/maxine/index.html).
-
-## Maxine Early Access Program
-
-This program is available to a limited number of applicants based on use case/deployment infrastructure fit. Please note, we require a mutual NDA to be executed before granting access to participate in the Maxine Early Access Program, and we require the application to be under your organization's email domain.
-[Apply Now](https://developer.nvidia.com/maxine-microservice-early-access)
